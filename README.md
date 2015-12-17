@@ -1,2 +1,0 @@
-# Cincom-MANTIS-Share
-test
